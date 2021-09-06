@@ -35,7 +35,7 @@
 ---
 
 <a href="https://github.com/Argarm/github-readme-stats">
-   <img width="60%" alt="Aarón's github stats" src="https://github-readme-stats.vercel.app/api?username=argarm&show_icons=true&hide_border=true" />
+   <img width="60%" alt="Aarón's github stats" src="https://github-readme-stats.vercel.app/api?username=argarm&show_icons=true&hide_border=true&theme=react" />
 </a>
 
 -----
