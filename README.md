@@ -1,6 +1,6 @@
 # Aarón García Marrero
 
-**Senior Platform & AI Engineer** · Las Palmas, Canary Islands 🇪🇸 · UTC+0/UTC+1 (full overlap with Western Europe)
+**Senior Software & AI Engineer** · Las Palmas, Canary Islands 🇪🇸 · UTC+0/UTC+1 (full overlap with Western Europe)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-garcia-a853b2163/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarongrmrr@gmail.com)
